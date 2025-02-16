@@ -4,7 +4,7 @@ h1{
 body{
     margin: 0;
     height: 100vh;
-    background-color: black;
+    background-color: #d0d0d0;
     overflow:hidden;
 }
 span{
